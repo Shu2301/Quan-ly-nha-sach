@@ -2,12 +2,11 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: Nguyễn Thành Trung - 19522431
 
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
+
+Task management table: [here](https://trello.com/b/sAuMGwgy/qu%E1%BA%A3n-l%C3%BD-nh%C3%A0-s%C3%A1ch)
 
 UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
 
