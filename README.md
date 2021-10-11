@@ -6,7 +6,7 @@ Participants:
 
 
 
-Task management table: [here](https://trello.com/b/sAuMGwgy/qu%E1%BA%A3n-l%C3%BD-nh%C3%A0-s%C3%A1ch)
+Task management table: (https://trello.com/b/sAuMGwgy/qu%E1%BA%A3n-l%C3%BD-nh%C3%A0-s%C3%A1ch)
 
 UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
 
