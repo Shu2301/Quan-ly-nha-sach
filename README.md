@@ -18,8 +18,11 @@ Tech stacks:
 - ...
 
 Demo online: 
+
 [home](https://shu-home.glitch.me/) [Replace by your public prototype later]
+
 [home](https://shu-signin.glitch.me/) [Replace by your public prototype later]
+
 [home](https://shu-signup.glitch.me/) [Replace by your public prototype later]
 
 *[Delete below text when you forked]*
