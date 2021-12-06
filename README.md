@@ -8,7 +8,7 @@ Participants:
 
 Task management table: (https://trello.com/b/sAuMGwgy/qu%E1%BA%A3n-l%C3%BD-nh%C3%A0-s%C3%A1ch)
 
-UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
+UI / UX prototype: [here](https://www.figma.com/file/WnKr4cWm6jJChCyX2CVqE2/Qu%E1%BA%A3n-L%C3%BD-Nh%C3%A0-S%C3%A1ch?node-id=222%3A2) [Replace by your public prototype later]
 
 Tech stacks:
 
